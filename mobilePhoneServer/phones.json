@@ -1,0 +1,157 @@
+[
+  {
+    "id": "phone001",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "price": 1299,
+    "thumbnail": "https://via.placeholder.com/150/0000FF/FFFFFF?text=iPhone+15+Pro",
+    "banner": "https://via.placeholder.com/600x300/0000FF/FFFFFF?text=iPhone+15+Pro+Banner",
+    "specs": {
+      "processor": "A17 Bionic",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4300mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "screen_size": "6.1 inch",
+      "os": "iOS 18"
+    },
+    "ratings": 4.9,
+    "reviews": [
+      {
+        "user": "tech_guru_23",
+        "rating": 5,
+        "comment": "Incredible performance and build quality."
+      },
+      {
+        "user": "apple_fanboy",
+        "rating": 4,
+        "comment": "Amazing camera, but a bit pricey."
+      }
+    ],
+    "release_date": "2024-09-15"
+  },
+  {
+    "id": "phone002",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "price": 1199,
+    "thumbnail": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Galaxy+S24+Ultra",
+    "banner": "https://via.placeholder.com/600x300/FF5733/FFFFFF?text=Galaxy+S24+Ultra+Banner",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 12MP + 10MP + 10MP",
+      "screen_size": "6.8 inch",
+      "os": "Android 15"
+    },
+    "ratings": 4.8,
+    "reviews": [
+      {
+        "user": "android_master",
+        "rating": 5,
+        "comment": "Best Android phone I've ever used."
+      },
+      {
+        "user": "photography_lover",
+        "rating": 5,
+        "comment": "Unmatched camera quality."
+      }
+    ],
+    "release_date": "2024-02-25"
+  },
+  {
+    "id": "phone003",
+    "brand": "Google",
+    "model": "Pixel 9",
+    "price": 999,
+    "thumbnail": "https://via.placeholder.com/150/34A853/FFFFFF?text=Pixel+9",
+    "banner": "https://via.placeholder.com/600x300/34A853/FFFFFF?text=Pixel+9+Banner",
+    "specs": {
+      "processor": "Tensor G4",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4800mAh",
+      "camera": "50MP + 48MP + 12MP",
+      "screen_size": "6.3 inch",
+      "os": "Android 15"
+    },
+    "ratings": 4.7,
+    "reviews": [
+      {
+        "user": "pixel_fan",
+        "rating": 5,
+        "comment": "Best camera software and smooth performance."
+      },
+      {
+        "user": "techie_101",
+        "rating": 4,
+        "comment": "Great phone, but battery life could be better."
+      }
+    ],
+    "release_date": "2024-10-10"
+  },
+  {
+    "id": "phone004",
+    "brand": "OnePlus",
+    "model": "OnePlus 13 Pro",
+    "price": 899,
+    "thumbnail": "https://via.placeholder.com/150/FF0000/FFFFFF?text=OnePlus+13+Pro",
+    "banner": "https://via.placeholder.com/600x300/FF0000/FFFFFF?text=OnePlus+13+Pro+Banner",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "64MP + 50MP + 50MP",
+      "screen_size": "6.7 inch",
+      "os": "Android 15"
+    },
+    "ratings": 4.6,
+    "reviews": [
+      {
+        "user": "speed_demon",
+        "rating": 5,
+        "comment": "Super fast and great design."
+      },
+      {
+        "user": "budget_hunter",
+        "rating": 4,
+        "comment": "Great value for the price."
+      }
+    ],
+    "release_date": "2024-11-05"
+  },
+  {
+    "id": "phone005",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14 Pro",
+    "price": 749,
+    "thumbnail": "https://via.placeholder.com/150/FFA500/FFFFFF?text=Xiaomi+14+Pro",
+    "banner": "https://via.placeholder.com/600x300/FFA500/FFFFFF?text=Xiaomi+14+Pro+Banner",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 50MP + 50MP",
+      "screen_size": "6.9 inch",
+      "os": "Android 15"
+    },
+    "ratings": 4.5,
+    "reviews": [
+      {
+        "user": "gadget_guru",
+        "rating": 5,
+        "comment": "Excellent performance for the price."
+      },
+      {
+        "user": "camera_fanatic",
+        "rating": 4,
+        "comment": "Amazing camera but software needs improvement."
+      }
+    ],
+    "release_date": "2024-12-01"
+  }
+]
