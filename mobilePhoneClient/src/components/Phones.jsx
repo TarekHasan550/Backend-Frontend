@@ -1,6 +1,9 @@
 import React, { use, useEffect, useState } from 'react'
+import { usePhoneContext } from '../context/ContextPhone';
 
 export default function Phones() {
+  const { phones } = usePhoneContext();
+  console.log(phones);
   const [smartPhones, setPhones] = useState([]);
   useEffect(() => {
     const fetchPhones = async () => {

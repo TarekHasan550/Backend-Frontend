@@ -1,6 +1,8 @@
 import React from 'react'
+import { usePhoneContext } from '../context/ContextPhone'
 
 export default function NewUsers() {
+  const { setPhones } = usePhoneContext();
   const handleAddNewPhone = (e) => {
     e.preventDefault();
     const phoneName = e.target.phoneName.value;
@@ -18,10 +20,11 @@ export default function NewUsers() {
       .then(res => res.json())
       .then(data => {
         console.log("Data after Post:", data);
+        setPhones(prevPhones => [...prevPhones, data]);
       })
       .catch(err => console.log(err));
 
-    
+
   }
     return (
       <div className='grid place-items-center'>
